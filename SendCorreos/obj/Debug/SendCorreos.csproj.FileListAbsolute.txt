@@ -54,3 +54,20 @@ C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreo
 C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.exe
 C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.pdb
 C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.exe.config
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\SendCorreos.exe.config
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\SendCorreos.pdb
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\FluentValidation.dll
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\FluentValidation.xml
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorreos.csproj.AssemblyReference.cache
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorreos.exe.config
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorreos.csproj.CoreCompileInputs.cache
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorr.7F6CBA55.Up2Date
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\Repositorios Github\CORREOS_SEND_PRD\SendCorreos\obj\Debug\SendCorreos.pdb

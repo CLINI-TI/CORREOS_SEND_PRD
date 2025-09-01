@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|c:\\users\\clini\\desktop\\repositorios github\\correos_send_prd\\sendcorreos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|solutionrelative:sendcorreos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\sendcorreos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|solutionrelative:sendcorreos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|c:\\users\\clini\\desktop\\repositorios github\\correos_send_prd\\sendcorreos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEF6019-4B5F-480B-8E77-1E70E82447D1}|SendCorreos\\SendCorreos.csproj|solutionrelative:sendcorreos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\SendCorreos\\html\\confirmacionImagenB.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 313,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +46,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\SendCorreos\\App.config",
               "RelativeDocumentMoniker": "SendCorreos\\App.config",
               "ToolTip": "C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\SendCorreos\\App.config",
               "RelativeToolTip": "SendCorreos\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T19:57:39.951Z"
+              "WhenOpened": "2025-03-26T19:57:39.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\SendCorreos\\Program.cs",
               "RelativeDocumentMoniker": "SendCorreos\\Program.cs",
               "ToolTip": "C:\\Users\\clini\\Desktop\\Repositorios Github\\CORREOS_SEND_PRD\\SendCorreos\\Program.cs",
               "RelativeToolTip": "SendCorreos\\Program.cs",
-              "ViewState": "AgIAAP8BAAAAAAAAAAAAwMICAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACkCAAAAAAAAAAAAwMICAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T14:11:46.616Z",
               "EditorCaption": ""
