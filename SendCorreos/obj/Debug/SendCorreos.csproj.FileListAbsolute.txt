@@ -1,0 +1,56 @@
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\bin\Debug\SendCorreos.exe.config
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\bin\Debug\SendCorreos.exe
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\bin\Debug\SendCorreos.pdb
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\obj\Debug\SendCorreos.csproj.AssemblyReference.cache
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\obj\Debug\SendCorreos.csproj.CoreCompileInputs.cache
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\obj\Debug\SendCorreos.exe
+C:\Users\Clini\source\repos\SendCorreos\SendCorreos\obj\Debug\SendCorreos.pdb
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\SendCorreos.exe.config
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\SendCorreos.exe
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\SendCorreos.pdb
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\obj\Debug\SendCorreos.csproj.AssemblyReference.cache
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\obj\Debug\SendCorreos.csproj.CoreCompileInputs.cache
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\obj\Debug\SendCorreos.exe
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\obj\Debug\SendCorreos.pdb
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\FluentValidation.dll
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\FluentValidation.xml
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\obj\Debug\SendCorr.7F6CBA55.Up2Date
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\SISTEMAS\SEND_CORREOS\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.exe.config
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.pdb
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\FluentValidation.dll
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\FluentValidation.xml
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.csproj.AssemblyReference.cache
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.csproj.CoreCompileInputs.cache
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorr.7F6CBA55.Up2Date
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.pdb
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.exe.config
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\SendCorreos.pdb
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\FluentValidation.dll
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\FluentValidation.xml
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.csproj.AssemblyReference.cache
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.csproj.CoreCompileInputs.cache
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorr.7F6CBA55.Up2Date
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.exe
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.pdb
+C:\Users\clini\Desktop\CLINI\Programas en Productivo\Envio de Correos\SendCorreos\obj\Debug\SendCorreos.exe.config
