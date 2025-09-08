@@ -75,6 +75,7 @@ namespace SendCorreos
                         string subtipoobj = Convert.ToString(ds.Tables[0].Rows[j]["subtipoobj"]);
                         string codCita = ds.Tables[0].Rows[j].Field<string>("cod_cita").ToString();
 
+                        SincronizarCitaYCorreosSend(cnn, nsecuencia, ref sistema, ref subtipoobj, ref codCita, identificador);
 
                         if (tipo == "CNF")
                         {
@@ -1140,6 +1141,93 @@ namespace SendCorreos
 
         }
 
+        private static void SincronizarCitaYCorreosSend(
+            SqlConnection cnn,
+            string nsecuencia,
+            ref string sistema,
+            ref string subtipoobj,
+            ref string codCita,
+            string identificador)
+        {
+            try
+            {
+                // 1) Número de cita
+                string numeroCita = !string.IsNullOrWhiteSpace(codCita) ? codCita : identificador;
+                if (string.IsNullOrWhiteSpace(numeroCita))
+                    return;
+
+                bool cerroConn = false;
+                if (cnn.State != ConnectionState.Open)
+                {
+                    cnn.Open();
+                    cerroConn = true;
+                }
+
+                // 2) Traer TOBJ_CODIGO y PRS_CODIGO
+                string tobj = null;
+                string prs = null;
+
+                using (var cmd = new SqlCommand(@"
+SELECT TOP 1 TOBJ_CODIGO, PRS_CODIGO
+FROM [Bd_Ambulatorio].[dbo].[CITA_MEDICA]
+WHERE CIT_NUMERO = @nro;", cnn))
+                {
+                    cmd.Parameters.AddWithValue("@nro", numeroCita);
+
+                    using (var rd = cmd.ExecuteReader())
+                    {
+                        if (rd.Read())
+                        {
+                            object oTobj = rd["TOBJ_CODIGO"];
+                            object oPrs = rd["PRS_CODIGO"];
+                            tobj = (oTobj == DBNull.Value) ? null : Convert.ToString(oTobj);
+                            prs = (oPrs == DBNull.Value) ? null : Convert.ToString(oPrs);
+                        }
+                    }
+                }
+
+                // 3) Asegurar cod_cita en CORREOS_SEND
+                using (var upCod = new SqlCommand(@"
+UPDATE [dbo].[CORREOS_SEND]
+SET cod_cita = @nro
+WHERE nsecuencia = @nsec;", cnn))
+                {
+                    upCod.Parameters.AddWithValue("@nro", numeroCita);
+                    upCod.Parameters.AddWithValue("@nsec", nsecuencia);
+                    upCod.ExecuteNonQuery();
+                }
+                codCita = numeroCita;
+
+                // 4) Si hay TOBJ, comparar/actualizar sistema y subtipoobj
+                if (!string.IsNullOrWhiteSpace(tobj))
+                {
+                    string sistemaTrim = (sistema ?? "").Trim();
+                    if (!sistemaTrim.Equals(tobj.Trim(), StringComparison.OrdinalIgnoreCase))
+                    {
+                        using (var upSis = new SqlCommand(@"
+UPDATE [dbo].[CORREOS_SEND]
+SET sistema = @tobj, subtipoobj = @prs
+WHERE nsecuencia = @nsec;", cnn))
+                        {
+                            upSis.Parameters.AddWithValue("@tobj", tobj);
+                            upSis.Parameters.AddWithValue("@prs", (prs != null) ? (object)prs : DBNull.Value);
+                            upSis.Parameters.AddWithValue("@nsec", nsecuencia);
+                            upSis.ExecuteNonQuery();
+                        }
+
+                        // Reflejar para el envío inmediato
+                        sistema = tobj;
+                        subtipoobj = prs ?? "";
+                    }
+                }
+
+                if (cerroConn) cnn.Close();
+            }
+            catch
+            {
+                // No cortar el flujo de envío si falla esta sincronización.
+            }
+        }
 
 
 
